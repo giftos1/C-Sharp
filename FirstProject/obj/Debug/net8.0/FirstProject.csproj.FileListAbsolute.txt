@@ -12,3 +12,4 @@ C:\Users\gifts\C# Projects\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
 C:\Users\gifts\C# Projects\FirstProject\obj\Debug\net8.0\FirstProject.pdb
 C:\Users\gifts\C# Projects\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
 C:\Users\gifts\C# Projects\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
+C:\Users\gifts\C# Projects\FirstProject\obj\Debug\net8.0\FirstProject.sourcelink.json

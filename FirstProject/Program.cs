@@ -145,6 +145,7 @@ namespace CoreFundamentals
                 {
                     Console.WriteLine($"{i} times table");
                 }
+                Console.ReadLine();
             }
         }
     }
