@@ -1,0 +1,15 @@
+C:\C# Projects\Lists\bin\Debug\net8.0\Lists.exe
+C:\C# Projects\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\C# Projects\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\C# Projects\Lists\bin\Debug\net8.0\Lists.dll
+C:\C# Projects\Lists\bin\Debug\net8.0\Lists.pdb
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.sourcelink.json
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.dll
+C:\C# Projects\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.pdb
+C:\C# Projects\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\C# Projects\Lists\obj\Debug\net8.0\ref\Lists.dll
