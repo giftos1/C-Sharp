@@ -3,27 +3,31 @@
 
     class Person
     {
-        private string name;
-        private int age;
+        //private string name;
+        //private int age;
+        public string Name { get; set; }
+        public int Age { get; set; }
+        // Auto-implemented properties with validation in the constructor or methods
 
-        public string Name
-        {
-            get { 
-                return name; 
-            }
-            set {
-                name = !string.IsNullOrEmpty(value) ? value : "Invalid Name!";
-            }
-        }
-        public int Age
-        {
-            get { 
-                return age; 
-            }
-            set {
-                age = value >= 0 && value <= 150 ? value : -1; 
-            }
-        }
+
+        //public string Name
+        //{
+        //    get { 
+        //        return name; 
+        //    }
+        //    set {
+        //        name = !string.IsNullOrEmpty(value) ? value : "Invalid Name!";
+        //    }
+        //}
+        //public int Age
+        //{
+        //    get { 
+        //        return age; 
+        //    }
+        //    set {
+        //        age = value >= 0 && value <= 150 ? value : -1; 
+        //    }
+        //}
         public Person(string name, int age)
         {
             Name = name;
