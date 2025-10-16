@@ -10,10 +10,10 @@
             string num = "123";
             string threeBillion = "3000000000";
             string name = "Dove";
-            string blank = null;
+            string blankStr = null;
 
             CustomTryParse(num);
-            CustomTryParse(blank);
+            CustomTryParse(blankStr);
             CustomTryParse(threeBillion);
             CustomTryParse(name);
 
