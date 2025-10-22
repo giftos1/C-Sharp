@@ -16,7 +16,7 @@
             CustomTryParse(blank);
             CustomTryParse(threeBillion);
             CustomTryParse(name);
-
+            Console.ReadLine();
         }
 
         static void CustomTryParse(string s)
