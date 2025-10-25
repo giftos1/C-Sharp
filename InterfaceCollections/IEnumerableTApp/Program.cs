@@ -15,6 +15,14 @@ namespace IEnumerableTApp
             Items = items;
         }
 
+        // Indexer
+        // They dont necessarily need a setter, but in this case we have one.
+        public string this[int index]
+        {
+            get => Items[index];
+            set => Items[index] = value;
+        }
+
         // Explicit interface implementation
         IEnumerator IEnumerable.GetEnumerator()
         {
@@ -88,6 +96,10 @@ namespace IEnumerableTApp
             //Console.WriteLine(myCollection); // ToString override demonstration
             //IEnumerable fruits = new CustomCollection(new List<string> { "Apple", "Banana", "Cherry" });
 
+            var first = myCollection[0]; // Using indexer to get value
+            Console.WriteLine($"my first initial value: {first}");
+            first = "mango"; // Using indexer to set value
+            Console.WriteLine($"Value changed to: {first}");
             foreach (var item in myCollection)
             {
                 Console.WriteLine(item);
