@@ -1,7 +1,6 @@
 ﻿namespace IEnumerable;
 using System.Collections;
 
-
 public class CustomCollection : IEnumerable
 {
     public List<string> Items { get; }
@@ -74,7 +73,6 @@ class Program
             currentItem = itemsEnumerator.Current;
             Console.WriteLine(currentItem);
         }
-
         Console.ReadLine();
     }
 }

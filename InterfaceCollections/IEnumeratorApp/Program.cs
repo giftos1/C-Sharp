@@ -31,7 +31,7 @@ class Program
             currentName = namesEnumerator.Current;
             Console.WriteLine(currentName);
         }
-
+      
         Console.ReadLine();
     }
 }
